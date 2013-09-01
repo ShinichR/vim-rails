@@ -1,4 +1,5 @@
-# rails.vim clone from github.com/tpope/vim-rails
+# rails.vim
+---clone from github.com/tpope/vim-rails---
 
 Remember when everybody and their mother was using TextMate for Ruby on
 Rails development?  Well if it wasn't for rails.vim, we'd still be in
